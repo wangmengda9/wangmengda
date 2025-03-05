@@ -10,3 +10,5 @@
 wangmengda9/wangmengda9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+图片测试
+![dify图片](https://github.com/langgenius/dify/blob/main/images/models.png)
